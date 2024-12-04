@@ -10,12 +10,33 @@ function preload()
   for (let i = 1; i < 8; i++)
   {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run North" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run North-East" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run East" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run South-East" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run South" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run South-West" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run West" + i + ".png"));
+  }
+  for (let i = 1; i < 8; i++)
+  {
     sprites.push(loadImage("assets/New Sprite Frames/Solid Snake Run North-West" + i + ".png"));
   }
 }
